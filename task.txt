@@ -1,0 +1,7 @@
+About C language:
+- Heading 
+- paragraph -- 3 to 4 line 
+- advantage of c language
+    - 5 point
+- disadvantage of c
+    - 6 point
