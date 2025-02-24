@@ -5,3 +5,16 @@ About C language:
     - 5 point
 - disadvantage of c
     - 6 point
+
+
+24/02/25 task : 
+favorite singer : male femlae
+Name Heading
+
+Image 
+
+about singer : 
+
+track list 
+1. tum hi ho 
+2.
