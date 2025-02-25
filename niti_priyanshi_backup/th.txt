@@ -1,0 +1,37 @@
+html --> Hyper text markup language 
+            - hyper text --> Link 
+
+
+founder of html?
+- Tim berner's lee 
+
+html 1 --> 1991
+html 2 --> 1995
+html 3 --> (Jan , 1997) -- failure
+html 4 --> (Dec , 1997) - 4.2 -> 2000
+html 5 --> 2014 - 5.2 --> 2017
+
+
+introduced : 1993 --> first website --> https://info.cern.ch 
+
+defination of html?
+- To create a static structure of website or webpages.
+
+
+html extension : .html / .htm
+
+
+where is html run?
+- Browser / client side 
+
+
+html structure.
+
+<html>
+<head>
+    <title>First session</title>
+</head>
+<body>
+
+</body>
+</html>
