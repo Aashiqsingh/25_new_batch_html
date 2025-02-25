@@ -35,3 +35,13 @@ html structure.
 
 </body>
 </html>
+
+
+About C language :
+3-4 paragraph 
+
+Advantage of c 
+3 - 4 points
+
+DisAdvantage of C 
+3-4 point
