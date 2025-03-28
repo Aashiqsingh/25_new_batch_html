@@ -46,3 +46,9 @@ facebook
 
 -------------------------------------
 Employee : Name , salary , age , email , mobile 
+
+
+
+-------------------------------------------------
+Playlist 
+sr no , Name , Artist Image , Song name , Audio
